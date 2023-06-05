@@ -54,4 +54,4 @@ sns.heatmap(df.corr())
 ![229872246-8c82960f-b50f-48fe-9a01-273ff98786a6](https://user-images.githubusercontent.com/118707037/231137185-744e6b97-f2d4-4a32-aff4-4e76fb8291fe.png)
 ![229872323-1738e2b3-578e-449b-a553-ff2277109d7d](https://user-images.githubusercontent.com/118707037/231137221-075ceeab-cfe6-4b46-a638-64086d955944.png)
 # RESULT:
-Thus, the python program to visualize the given data by analysing the multivariables in data ia auxxwaadully done.
+Thus, the python program to visualize the given data by analysing the multivariables in data ia successfully done.
